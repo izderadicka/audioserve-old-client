@@ -1,6 +1,7 @@
 # Old Web Client
 
-** This is an unmaintained old code **
+**This is an unmaintained old code**
+
 Old web client for audioserve, kept here for reference, not guaranteed to work with latest version of audioserver.
 
 Check new [web client](https://github.com/izderadicka/audioserve-web).
