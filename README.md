@@ -1,6 +1,8 @@
 # Old Web Client
 
-In process to be decommissioned - will be around for some time - ultimately to be removed into separate project.
+** This is an unmaintained old code **
+Old web client for audioserve, kept here for reference, not guaranteed to work with latest version of audioserver.
+
 Check new [web client](https://github.com/izderadicka/audioserve-web).
 
 ## How to use
